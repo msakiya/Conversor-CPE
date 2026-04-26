@@ -1,0 +1,6 @@
+{
+  "name": "Conversor CPE",
+  "description": "Conversor de moneda inteligente para WooCommerce con detección de país y gestión de tipos de cambio manuales/automáticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
